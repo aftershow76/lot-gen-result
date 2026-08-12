@@ -26,6 +26,16 @@ Numbers are stored in ascending order, regardless of the order in which PCSO
 published them. `manifest.json` lists the available shards, row counts, latest
 draw dates, and SHA-256 hashes used by clients to detect updated files.
 
+Each results shard has a matching `meta_<game>_<year>.csv` containing:
+
+```csv
+date,jackpot,winners
+2026-08-10,124014115.01,0
+```
+
+Jackpot and winner counts are kept separate so the core number files remain
+small and stable. Metadata shards are also listed and hashed in the manifest.
+
 ## Expected date gaps
 
 PCSO may officially suspend draws during Holy Week, Christmas, New Year, and
