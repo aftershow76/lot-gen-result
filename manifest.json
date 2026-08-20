@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-19T23:06:15+08:00",
+  "generated_at": "2026-08-20T23:15:23+08:00",
   "games": {
     "6/42": {
-      "last_draw_date": "2026-08-18",
-      "total_draws": 778,
+      "last_draw_date": "2026-08-20",
+      "total_draws": 779,
       "files": [
         {
           "year": 2021,
@@ -39,8 +39,8 @@
         {
           "year": 2026,
           "path": "results_642_2026.csv",
-          "rows": 97,
-          "sha256": "f5719aa37d1bd7be88fcd0f3a0201ee5c252dad8ec88fcae999f1c21e3dcf9f2"
+          "rows": 98,
+          "sha256": "01a8e6bd74cd10bdda42fc9d08983778c20924ef96a0836aadd1421a9b3e2c5c"
         }
       ],
       "meta_files": [
@@ -77,8 +77,8 @@
         {
           "year": 2026,
           "path": "meta_642_2026.csv",
-          "rows": 97,
-          "sha256": "ef924bdfe7f83e2351171910e9fdf80a2c8d20f5b8d3c5b4f15fe6b23f4b2030"
+          "rows": 98,
+          "sha256": "0006fec41858106fe161a940f0a0e0122ed5bc661ef0251be8f084e3afe3117b"
         }
       ]
     },
@@ -163,8 +163,8 @@
       ]
     },
     "6/49": {
-      "last_draw_date": "2026-08-18",
-      "total_draws": 204,
+      "last_draw_date": "2026-08-20",
+      "total_draws": 243,
       "files": [
         {
           "year": 2021,
@@ -175,14 +175,14 @@
         {
           "year": 2025,
           "path": "results_649_2025.csv",
-          "rows": 79,
-          "sha256": "a9f454cf5dbf3f23fc00aa325d5d7184303ba15bbee48ce650b0920ed45eb626"
+          "rows": 117,
+          "sha256": "501f14272c8e33234d91d8f1e4f0399b5ccb116b2607797b46e2ccb5e9d06363"
         },
         {
           "year": 2026,
           "path": "results_649_2026.csv",
-          "rows": 98,
-          "sha256": "938fd40898fc5a7d0321cd526d903ba77c2d9857ea9a27fd2eaa3366d4652fc7"
+          "rows": 99,
+          "sha256": "5978dfaec780cf2a1e24e6831c19b447b08d645b9229cbea3ab4990998bfda28"
         }
       ],
       "meta_files": [
@@ -195,14 +195,14 @@
         {
           "year": 2025,
           "path": "meta_649_2025.csv",
-          "rows": 79,
-          "sha256": "9e7d102069e7460ff45bfe22705ce055bd2cc5c279bcd0225291bce592c730cc"
+          "rows": 117,
+          "sha256": "75d7880845ac372ce810ef03fa5ac62a10e7359f59795a1bf8fb1397ac03ad65"
         },
         {
           "year": 2026,
           "path": "meta_649_2026.csv",
-          "rows": 98,
-          "sha256": "ec979ce6a89e2920062cb2f206b988aba646789b4f0e67bc1e9b74496c2470d3"
+          "rows": 99,
+          "sha256": "d542c6f1185cc6c7fa5436e72ea37304d47d0efa97da8772e0f5e1632349696c"
         }
       ]
     },
@@ -288,13 +288,13 @@
     },
     "6/58": {
       "last_draw_date": "2026-08-18",
-      "total_draws": 177,
+      "total_draws": 215,
       "files": [
         {
           "year": 2025,
           "path": "results_658_2025.csv",
-          "rows": 79,
-          "sha256": "08d0b4ece9354a62862eb7302abbd8c366a0782c632ad1577559d422d424460a"
+          "rows": 117,
+          "sha256": "c21b13abd0e1898c5fd9b842be57e69aaa6ded4599c185de0c05bac541393fdd"
         },
         {
           "year": 2026,
@@ -307,8 +307,8 @@
         {
           "year": 2025,
           "path": "meta_658_2025.csv",
-          "rows": 79,
-          "sha256": "59fc72c8d4d2c3d7559d93168f09219030ff3f8af2f00dba23aa1b889452f4bd"
+          "rows": 117,
+          "sha256": "2b42f521c46b4ee58641fdc391b4c3a5640bdcd31342f2c6d2da1c624696eee9"
         },
         {
           "year": 2026,
