@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-06T00:56:24+08:00",
+  "generated_at": "2026-09-07T01:20:41+08:00",
   "games": {
     "6/42": {
       "last_draw_date": "2026-09-05",
@@ -163,8 +163,8 @@
       ]
     },
     "6/49": {
-      "last_draw_date": "2026-09-03",
-      "total_draws": 788,
+      "last_draw_date": "2026-09-06",
+      "total_draws": 789,
       "files": [
         {
           "year": 2021,
@@ -199,8 +199,8 @@
         {
           "year": 2026,
           "path": "results_649_2026.csv",
-          "rows": 105,
-          "sha256": "9e429ca9dfd482b59eb029c58989bd57e73bf171292a9637f1e8bf8767d7b54d"
+          "rows": 106,
+          "sha256": "74ab77b6c5cf46257229af16a8c8669be148fab567629d8862da4b228b56a556"
         }
       ],
       "meta_files": [
@@ -237,8 +237,8 @@
         {
           "year": 2026,
           "path": "meta_649_2026.csv",
-          "rows": 105,
-          "sha256": "9ae0d6e4cf1d661e791a5c9b6334530b319b392aa4774ae0c3c66796637ea77c"
+          "rows": 106,
+          "sha256": "38a00a42fb9a739bb106602b69d7291f85d21f7eacaa2827055386918897af69"
         }
       ]
     },
@@ -323,8 +323,8 @@
       ]
     },
     "6/58": {
-      "last_draw_date": "2026-09-04",
-      "total_draws": 788,
+      "last_draw_date": "2026-09-06",
+      "total_draws": 789,
       "files": [
         {
           "year": 2021,
@@ -359,8 +359,8 @@
         {
           "year": 2026,
           "path": "results_658_2026.csv",
-          "rows": 105,
-          "sha256": "de9da243ed3413aa6d2d0de083917b0145b4d09094be2db6e46a97b20d07499d"
+          "rows": 106,
+          "sha256": "025dfeea6529758d1ca251e73458b3f1082a1f0001ee7d07ce367064e61ba124"
         }
       ],
       "meta_files": [
@@ -397,8 +397,8 @@
         {
           "year": 2026,
           "path": "meta_658_2026.csv",
-          "rows": 105,
-          "sha256": "3ce29f44fd2b13529b4cd104f584146e7177df08f1a54f3265115852c1c0d805"
+          "rows": 106,
+          "sha256": "ef55f206014dbb12d56e555d37d6fac528d2ca91a291ff5a4182e0811fa2424b"
         }
       ]
     }
