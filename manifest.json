@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-18T02:32:24+08:00",
+  "generated_at": "2026-09-19T01:52:31+08:00",
   "games": {
     "6/42": {
       "last_draw_date": "2026-09-17",
@@ -83,8 +83,8 @@
       ]
     },
     "6/45": {
-      "last_draw_date": "2026-09-16",
-      "total_draws": 796,
+      "last_draw_date": "2026-09-18",
+      "total_draws": 797,
       "files": [
         {
           "year": 2021,
@@ -119,8 +119,8 @@
         {
           "year": 2026,
           "path": "results_645_2026.csv",
-          "rows": 110,
-          "sha256": "d11d887427c6d70ac2d5ea2067e191cf9e2f9eb24150365b7d7d32f7cdd5aeae"
+          "rows": 111,
+          "sha256": "60a884137a5ff34a2e382b249795647cd5fc199babee7a8fcb89b7ed64f8484f"
         }
       ],
       "meta_files": [
@@ -157,8 +157,8 @@
         {
           "year": 2026,
           "path": "meta_645_2026.csv",
-          "rows": 110,
-          "sha256": "7327e24c54b71b7d52e5c24ef2c1e7c93ab69139081760879d1d7041a77425ae"
+          "rows": 111,
+          "sha256": "00bded999c2349ed0ecb7f1e15d7cc9a471d1caf7389b82144cf1f940df3e564"
         }
       ]
     },
@@ -323,8 +323,8 @@
       ]
     },
     "6/58": {
-      "last_draw_date": "2026-09-15",
-      "total_draws": 793,
+      "last_draw_date": "2026-09-18",
+      "total_draws": 794,
       "files": [
         {
           "year": 2021,
@@ -359,8 +359,8 @@
         {
           "year": 2026,
           "path": "results_658_2026.csv",
-          "rows": 110,
-          "sha256": "2aa62a80dee35cf806cb0f141c333628a9c8c74b168e31d2a900c590b214dbf5"
+          "rows": 111,
+          "sha256": "a4e94b1b71cdb7759aa7ccc7d6cc9d0804ef0d979078f0641f93deaf3ca4c29d"
         }
       ],
       "meta_files": [
@@ -397,8 +397,8 @@
         {
           "year": 2026,
           "path": "meta_658_2026.csv",
-          "rows": 110,
-          "sha256": "1a1f90467d63ea5768b01f7ce3aeea9dea5703d6b609b9797d5fcffece064e46"
+          "rows": 111,
+          "sha256": "672de779fc9d9bfa3480bc4f89b0d070031a90dd4ea56b1253d386739c56366e"
         }
       ]
     }
