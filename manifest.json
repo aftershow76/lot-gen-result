@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-20T01:25:58+08:00",
+  "generated_at": "2026-09-21T01:39:28+08:00",
   "games": {
     "6/42": {
       "last_draw_date": "2026-09-19",
@@ -163,8 +163,8 @@
       ]
     },
     "6/49": {
-      "last_draw_date": "2026-09-17",
-      "total_draws": 794,
+      "last_draw_date": "2026-09-20",
+      "total_draws": 795,
       "files": [
         {
           "year": 2021,
@@ -199,8 +199,8 @@
         {
           "year": 2026,
           "path": "results_649_2026.csv",
-          "rows": 111,
-          "sha256": "b9c49b5c665089904b113160deb765df11e182ebe8736619b0f1b42edbfe06af"
+          "rows": 112,
+          "sha256": "2877d0b54e4051ba584a32863ea93a44729b179d987f6c194ec4f2931082d480"
         }
       ],
       "meta_files": [
@@ -237,8 +237,8 @@
         {
           "year": 2026,
           "path": "meta_649_2026.csv",
-          "rows": 111,
-          "sha256": "38ba25b5d8eb54b9c9acf34dc9c359a2e0ca1181c82d4ac8e4e0f8319e257987"
+          "rows": 112,
+          "sha256": "e2296ff37afd1d92643ee2a099ae0f3ef7c30c3af4e9607dce478312120b6e0b"
         }
       ]
     },
@@ -323,8 +323,8 @@
       ]
     },
     "6/58": {
-      "last_draw_date": "2026-09-18",
-      "total_draws": 794,
+      "last_draw_date": "2026-09-20",
+      "total_draws": 795,
       "files": [
         {
           "year": 2021,
@@ -359,8 +359,8 @@
         {
           "year": 2026,
           "path": "results_658_2026.csv",
-          "rows": 111,
-          "sha256": "a4e94b1b71cdb7759aa7ccc7d6cc9d0804ef0d979078f0641f93deaf3ca4c29d"
+          "rows": 112,
+          "sha256": "f322f7dd58aeedcaefd39753fa05d8b568b20fa35291c411db0485ba384f78fe"
         }
       ],
       "meta_files": [
@@ -397,8 +397,8 @@
         {
           "year": 2026,
           "path": "meta_658_2026.csv",
-          "rows": 111,
-          "sha256": "672de779fc9d9bfa3480bc4f89b0d070031a90dd4ea56b1253d386739c56366e"
+          "rows": 112,
+          "sha256": "d31afd6a8d440dc6e23f2f46278db9d5e5570b26fd314c250ada02abc23c2414"
         }
       ]
     }
