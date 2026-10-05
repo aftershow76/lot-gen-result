@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-05T02:21:01+08:00",
+  "generated_at": "2026-10-06T05:37:35+08:00",
   "games": {
     "6/42": {
       "last_draw_date": "2026-10-03",
@@ -83,8 +83,8 @@
       ]
     },
     "6/45": {
-      "last_draw_date": "2026-10-02",
-      "total_draws": 803,
+      "last_draw_date": "2026-10-05",
+      "total_draws": 804,
       "files": [
         {
           "year": 2021,
@@ -119,8 +119,8 @@
         {
           "year": 2026,
           "path": "results_645_2026.csv",
-          "rows": 117,
-          "sha256": "64be142148b26c9900a59b15ea7bdc7c0624ca6c66fa7d8bdd45e642e46cc3b1"
+          "rows": 118,
+          "sha256": "265559b3fdf33f084524e5cf5f315672b5ae32a0a5ca28e7d3ce4a62cda20fc0"
         }
       ],
       "meta_files": [
@@ -157,8 +157,8 @@
         {
           "year": 2026,
           "path": "meta_645_2026.csv",
-          "rows": 117,
-          "sha256": "91b230461d4cb230e2b83f611cf67f4590da1ac67f4c3d81569a1cbb6aeec1d7"
+          "rows": 118,
+          "sha256": "bbf430d40998e6833b992912e1a4e90857dbaded6a3c74203017c2f316fe501c"
         }
       ]
     },
@@ -243,8 +243,8 @@
       ]
     },
     "6/55": {
-      "last_draw_date": "2026-10-03",
-      "total_draws": 801,
+      "last_draw_date": "2026-10-05",
+      "total_draws": 802,
       "files": [
         {
           "year": 2021,
@@ -279,8 +279,8 @@
         {
           "year": 2026,
           "path": "results_655_2026.csv",
-          "rows": 117,
-          "sha256": "0900a6177f2f854610194ab227eddb31e536a85935f2f3f49f29aad72160a8dd"
+          "rows": 118,
+          "sha256": "77b1608e08d0ca163a69aff50284a794bd520cdc19bd4412fa8082b856b4f89a"
         }
       ],
       "meta_files": [
@@ -317,8 +317,8 @@
         {
           "year": 2026,
           "path": "meta_655_2026.csv",
-          "rows": 117,
-          "sha256": "b5488fe71fd62491b156ff14a113e95c2ab6bbd5e9dadcc9351abd7ec8001d9e"
+          "rows": 118,
+          "sha256": "523050ab41d902242b68954a254ad8883ee44c4517c8174e9478ef3582fd8d43"
         }
       ]
     },
