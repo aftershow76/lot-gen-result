@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-09T04:07:13+08:00",
+  "generated_at": "2026-10-10T03:45:18+08:00",
   "games": {
     "6/42": {
       "last_draw_date": "2026-10-08",
@@ -83,8 +83,8 @@
       ]
     },
     "6/45": {
-      "last_draw_date": "2026-10-07",
-      "total_draws": 805,
+      "last_draw_date": "2026-10-09",
+      "total_draws": 806,
       "files": [
         {
           "year": 2021,
@@ -119,8 +119,8 @@
         {
           "year": 2026,
           "path": "results_645_2026.csv",
-          "rows": 119,
-          "sha256": "87f26391f67f2790ce317ce0ec5003286ac01319ecebc84c8d43665572516684"
+          "rows": 120,
+          "sha256": "e31e1ea51af351c666d34ec2c49097b4a1528c7745883ae612f30db95865968d"
         }
       ],
       "meta_files": [
@@ -157,8 +157,8 @@
         {
           "year": 2026,
           "path": "meta_645_2026.csv",
-          "rows": 119,
-          "sha256": "578098815bcacf29838734a061154f6fea996376b89d1e78a3e179ec3edccd8b"
+          "rows": 120,
+          "sha256": "0f76f7b6e20b21c60caacc53e01dc72300acd7510716f233373f5d337a81252e"
         }
       ]
     },
@@ -323,8 +323,8 @@
       ]
     },
     "6/58": {
-      "last_draw_date": "2026-10-06",
-      "total_draws": 802,
+      "last_draw_date": "2026-10-09",
+      "total_draws": 803,
       "files": [
         {
           "year": 2021,
@@ -359,8 +359,8 @@
         {
           "year": 2026,
           "path": "results_658_2026.csv",
-          "rows": 119,
-          "sha256": "41a9638537a356c59fe218e6dddeea8ec3e58cd941d44003aa6ef9a4ca7b1419"
+          "rows": 120,
+          "sha256": "cbfe8e7b35ceb7e86028adbeb9cbcef09a35f2a449c1efee9c8b7ad6b2024c50"
         }
       ],
       "meta_files": [
@@ -397,8 +397,8 @@
         {
           "year": 2026,
           "path": "meta_658_2026.csv",
-          "rows": 119,
-          "sha256": "f91c0b6f76de122031e1dc9773f1e240d869ad3d6ba160a7f7c6423bea080b90"
+          "rows": 120,
+          "sha256": "e26747e396b52fe6438e6a3b5665a253dd2adf70f56717e1c2d78ce604398912"
         }
       ]
     }
