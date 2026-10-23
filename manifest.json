@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-23T02:48:01+08:00",
+  "generated_at": "2026-10-24T02:42:33+08:00",
   "games": {
     "6/42": {
       "last_draw_date": "2026-10-22",
@@ -83,8 +83,8 @@
       ]
     },
     "6/45": {
-      "last_draw_date": "2026-10-21",
-      "total_draws": 811,
+      "last_draw_date": "2026-10-23",
+      "total_draws": 812,
       "files": [
         {
           "year": 2021,
@@ -119,8 +119,8 @@
         {
           "year": 2026,
           "path": "results_645_2026.csv",
-          "rows": 125,
-          "sha256": "db78f53173c39614fb281ad3fc48118c8781338a261cdd4471875e1aa42fd91e"
+          "rows": 126,
+          "sha256": "168cd42e85767aa3e1c36148f021b25df334badfa52d9f3e85beba913ba55ce2"
         }
       ],
       "meta_files": [
@@ -157,8 +157,8 @@
         {
           "year": 2026,
           "path": "meta_645_2026.csv",
-          "rows": 125,
-          "sha256": "967274648c881efb7e4cefe7e3c3fe263ea9d8a0fea223b4fc53ec9ecafe8fda"
+          "rows": 126,
+          "sha256": "5726ce2afa2292a2333b0649839220cb8a60ad1efb50fe0efb430e8083afca1e"
         }
       ]
     },
@@ -323,8 +323,8 @@
       ]
     },
     "6/58": {
-      "last_draw_date": "2026-10-20",
-      "total_draws": 808,
+      "last_draw_date": "2026-10-23",
+      "total_draws": 809,
       "files": [
         {
           "year": 2021,
@@ -359,8 +359,8 @@
         {
           "year": 2026,
           "path": "results_658_2026.csv",
-          "rows": 125,
-          "sha256": "2207658c2a45b7994042afc79b7fa34ff215b7dfb87ef4d3a0aa13cc289a2937"
+          "rows": 126,
+          "sha256": "cca6d0c9a4d4bbd13dd17d23f6652cd531c301e8fd5fb24d66ac6a8e02507031"
         }
       ],
       "meta_files": [
@@ -397,8 +397,8 @@
         {
           "year": 2026,
           "path": "meta_658_2026.csv",
-          "rows": 125,
-          "sha256": "ca923dbe33f22354c67f685df6db1b4796d88868ff5caee32f515d87a006e352"
+          "rows": 126,
+          "sha256": "4f8221d4376ec3a0994e8944c80666926b184cfe46063542ddb5907eeecec20f"
         }
       ]
     }
