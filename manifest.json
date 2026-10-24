@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-24T02:42:33+08:00",
+  "generated_at": "2026-10-25T01:35:12+08:00",
   "games": {
     "6/42": {
-      "last_draw_date": "2026-10-22",
-      "total_draws": 806,
+      "last_draw_date": "2026-10-24",
+      "total_draws": 807,
       "files": [
         {
           "year": 2021,
@@ -39,8 +39,8 @@
         {
           "year": 2026,
           "path": "results_642_2026.csv",
-          "rows": 125,
-          "sha256": "688c6574c3c65041fc959bc8a09680b9de08c6585f4842cd6d302b3914c42691"
+          "rows": 126,
+          "sha256": "1f3854d21175ad0bec88e937e1b0d8dc8f1b4d0abcaf39da6ec7fcbbe4d66ef6"
         }
       ],
       "meta_files": [
@@ -77,8 +77,8 @@
         {
           "year": 2026,
           "path": "meta_642_2026.csv",
-          "rows": 125,
-          "sha256": "317dc19fd2cb019c46281c41c11bf3e5c4279e15fc86792663c503ea3092cf63"
+          "rows": 126,
+          "sha256": "d60b12b04ba002606a581f3b92c7dbb0505f4b459edbecc614784bbd9eba3610"
         }
       ]
     },
@@ -243,8 +243,8 @@
       ]
     },
     "6/55": {
-      "last_draw_date": "2026-10-21",
-      "total_draws": 809,
+      "last_draw_date": "2026-10-24",
+      "total_draws": 810,
       "files": [
         {
           "year": 2021,
@@ -279,8 +279,8 @@
         {
           "year": 2026,
           "path": "results_655_2026.csv",
-          "rows": 125,
-          "sha256": "a0028975790da965c3409693e7bec12d245c8c74ec6fd186e4ddf04a1f3b4ef5"
+          "rows": 126,
+          "sha256": "5f015ec93fbfc81c923e896f1707e5989b23bdb81a7a58f717e264cdb40bdb16"
         }
       ],
       "meta_files": [
@@ -317,8 +317,8 @@
         {
           "year": 2026,
           "path": "meta_655_2026.csv",
-          "rows": 125,
-          "sha256": "de2b35529d0ad763894ecd2ae694b0dc038da86823a488b766baa05e062f62f7"
+          "rows": 126,
+          "sha256": "1a0859e119e762e2bfc82e5da2d2a9242484a2156afad194f7965fa9194d37a1"
         }
       ]
     },
