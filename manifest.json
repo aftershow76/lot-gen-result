@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-25T01:35:12+08:00",
+  "generated_at": "2026-10-26T01:50:57+08:00",
   "games": {
     "6/42": {
       "last_draw_date": "2026-10-24",
@@ -163,8 +163,8 @@
       ]
     },
     "6/49": {
-      "last_draw_date": "2026-10-22",
-      "total_draws": 809,
+      "last_draw_date": "2026-10-25",
+      "total_draws": 810,
       "files": [
         {
           "year": 2021,
@@ -199,8 +199,8 @@
         {
           "year": 2026,
           "path": "results_649_2026.csv",
-          "rows": 126,
-          "sha256": "e9c9eb8f53ab07dafb52196fc2a439bed00963e940f4123d6b835b67e13a3fc9"
+          "rows": 127,
+          "sha256": "9fad03394702071381c63979d2d18b717e72b194f613f7133daf4c03ff052fd6"
         }
       ],
       "meta_files": [
@@ -237,8 +237,8 @@
         {
           "year": 2026,
           "path": "meta_649_2026.csv",
-          "rows": 126,
-          "sha256": "a9fcf7b3c0b88f0e536a678d1f44dc2edfb4540786076de3fc341e6c2e9faa60"
+          "rows": 127,
+          "sha256": "25a42f8e028f5c5693e3c326a782955ddf9b859798bb0e75d7efcecb3577f917"
         }
       ]
     },
@@ -323,8 +323,8 @@
       ]
     },
     "6/58": {
-      "last_draw_date": "2026-10-23",
-      "total_draws": 809,
+      "last_draw_date": "2026-10-25",
+      "total_draws": 810,
       "files": [
         {
           "year": 2021,
@@ -359,8 +359,8 @@
         {
           "year": 2026,
           "path": "results_658_2026.csv",
-          "rows": 126,
-          "sha256": "cca6d0c9a4d4bbd13dd17d23f6652cd531c301e8fd5fb24d66ac6a8e02507031"
+          "rows": 127,
+          "sha256": "e47f569491a12babf0de864e9cdc3b518db55919a27bbb300b0eb6c007a048fd"
         }
       ],
       "meta_files": [
@@ -397,8 +397,8 @@
         {
           "year": 2026,
           "path": "meta_658_2026.csv",
-          "rows": 126,
-          "sha256": "4f8221d4376ec3a0994e8944c80666926b184cfe46063542ddb5907eeecec20f"
+          "rows": 127,
+          "sha256": "06e03477464ff95e8288b1f817891b573bf8286ab639a07d6b2d1c69dc8c7045"
         }
       ]
     }
