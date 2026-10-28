@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T03:37:46+08:00",
+  "generated_at": "2026-10-29T03:52:14+08:00",
   "games": {
     "6/42": {
       "last_draw_date": "2026-10-27",
@@ -83,8 +83,8 @@
       ]
     },
     "6/45": {
-      "last_draw_date": "2026-10-26",
-      "total_draws": 813,
+      "last_draw_date": "2026-10-28",
+      "total_draws": 814,
       "files": [
         {
           "year": 2021,
@@ -119,8 +119,8 @@
         {
           "year": 2026,
           "path": "results_645_2026.csv",
-          "rows": 127,
-          "sha256": "98f4e7b7ef65682f2abf1af146be2646da88609e377e055a30634925bb9304e0"
+          "rows": 128,
+          "sha256": "5b3c4a095f7960baf8fb21e2d1683f70d4b7f4630dc9b27d556aaf47641c2751"
         }
       ],
       "meta_files": [
@@ -157,8 +157,8 @@
         {
           "year": 2026,
           "path": "meta_645_2026.csv",
-          "rows": 127,
-          "sha256": "87fb49523d26afe78727c084b0861e4c207a9ec2e4ec79eb5957320d91bf6442"
+          "rows": 128,
+          "sha256": "714e7268ab1cb70c9533b86bb9e9d831c1650a94795c5255e20c1c551bca6bb6"
         }
       ]
     },
@@ -243,8 +243,8 @@
       ]
     },
     "6/55": {
-      "last_draw_date": "2026-10-26",
-      "total_draws": 811,
+      "last_draw_date": "2026-10-28",
+      "total_draws": 812,
       "files": [
         {
           "year": 2021,
@@ -279,8 +279,8 @@
         {
           "year": 2026,
           "path": "results_655_2026.csv",
-          "rows": 127,
-          "sha256": "181f527db69a859a88f73098591b15a47ced5c080822b80afb97a27db8c4102d"
+          "rows": 128,
+          "sha256": "b8ead6006cfdeccce872272a236015856a9b8880ffbba9a26c6f9a5f1c5b5339"
         }
       ],
       "meta_files": [
@@ -317,8 +317,8 @@
         {
           "year": 2026,
           "path": "meta_655_2026.csv",
-          "rows": 127,
-          "sha256": "0a25f30d3a3f412eae28f5588d8b0bf8cc84dfecb50014cb215f34ce397ccbf1"
+          "rows": 128,
+          "sha256": "6d673d096d757f46f9450fd7323fb2714498b65f41a92879331b579bdf1ac383"
         }
       ]
     },
