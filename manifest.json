@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T03:51:12+08:00",
+  "generated_at": "2026-10-31T03:41:29+08:00",
   "games": {
     "6/42": {
       "last_draw_date": "2026-10-29",
@@ -83,8 +83,8 @@
       ]
     },
     "6/45": {
-      "last_draw_date": "2026-10-28",
-      "total_draws": 814,
+      "last_draw_date": "2026-10-30",
+      "total_draws": 815,
       "files": [
         {
           "year": 2021,
@@ -119,8 +119,8 @@
         {
           "year": 2026,
           "path": "results_645_2026.csv",
-          "rows": 128,
-          "sha256": "5b3c4a095f7960baf8fb21e2d1683f70d4b7f4630dc9b27d556aaf47641c2751"
+          "rows": 129,
+          "sha256": "30d9ea9bfdcab4efb3821089ee9a5385ce4591aab016f5cf098963a443d2fe2d"
         }
       ],
       "meta_files": [
@@ -157,8 +157,8 @@
         {
           "year": 2026,
           "path": "meta_645_2026.csv",
-          "rows": 128,
-          "sha256": "714e7268ab1cb70c9533b86bb9e9d831c1650a94795c5255e20c1c551bca6bb6"
+          "rows": 129,
+          "sha256": "093f243c53b191735d2007bb0f3cd03869c5578b241ac93a2659f999229afcdd"
         }
       ]
     },
@@ -323,8 +323,8 @@
       ]
     },
     "6/58": {
-      "last_draw_date": "2026-10-27",
-      "total_draws": 811,
+      "last_draw_date": "2026-10-30",
+      "total_draws": 812,
       "files": [
         {
           "year": 2021,
@@ -359,8 +359,8 @@
         {
           "year": 2026,
           "path": "results_658_2026.csv",
-          "rows": 128,
-          "sha256": "e1efe224fe193ebdde6342f75e041d19555ec71aadef44b1da36aed13d16c2cd"
+          "rows": 129,
+          "sha256": "1fb9b7edee82ce2ec3d4facf523bd64c08c7578de9999f9c10924ed004cb4509"
         }
       ],
       "meta_files": [
@@ -397,8 +397,8 @@
         {
           "year": 2026,
           "path": "meta_658_2026.csv",
-          "rows": 128,
-          "sha256": "dff9d246b031d03f3a29f15aae82d2fe1dbef0eb95b44b727bd976420d396e3f"
+          "rows": 129,
+          "sha256": "359e0ab7848e93d151878b1dc8b2265b6faf89be84581313560031f58527fd24"
         }
       ]
     }
