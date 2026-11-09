@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-09T03:08:07+08:00",
+  "generated_at": "2026-11-10T07:34:12+08:00",
   "games": {
     "6/42": {
       "last_draw_date": "2026-11-07",
@@ -83,8 +83,8 @@
       ]
     },
     "6/45": {
-      "last_draw_date": "2026-11-06",
-      "total_draws": 818,
+      "last_draw_date": "2026-11-09",
+      "total_draws": 819,
       "files": [
         {
           "year": 2021,
@@ -119,8 +119,8 @@
         {
           "year": 2026,
           "path": "results_645_2026.csv",
-          "rows": 132,
-          "sha256": "b2cf8eaff409d88a471fd9a92f9677fe98a950075d441526a41c3a233bb80709"
+          "rows": 133,
+          "sha256": "864608362e64a395300a2fc674a2dee56528e482da7e8f0646ef253f11b45996"
         }
       ],
       "meta_files": [
@@ -157,8 +157,8 @@
         {
           "year": 2026,
           "path": "meta_645_2026.csv",
-          "rows": 132,
-          "sha256": "ecfbab1729217f56ab1775de6eeb745bc282976e01a912e90ef44adfc9b4477a"
+          "rows": 133,
+          "sha256": "9dbb10336774e2eb122468bc554b5758451833ab038667983304934953d9d37d"
         }
       ]
     },
@@ -243,8 +243,8 @@
       ]
     },
     "6/55": {
-      "last_draw_date": "2026-11-07",
-      "total_draws": 816,
+      "last_draw_date": "2026-11-09",
+      "total_draws": 817,
       "files": [
         {
           "year": 2021,
@@ -279,8 +279,8 @@
         {
           "year": 2026,
           "path": "results_655_2026.csv",
-          "rows": 132,
-          "sha256": "ec882fd6886fc68f97d4ae285cb8dcd61da16c6adfab61ca620a122e57442c31"
+          "rows": 133,
+          "sha256": "2c041654d11d05d1cf4657f58a70bcc699402e406ea71ad2d5a0c3b402425dc9"
         }
       ],
       "meta_files": [
@@ -317,8 +317,8 @@
         {
           "year": 2026,
           "path": "meta_655_2026.csv",
-          "rows": 132,
-          "sha256": "db9a0df1290e0b8bb2b2d8dafd436883d19b6d04dbeb3974c0183a49413d90aa"
+          "rows": 133,
+          "sha256": "7fe1ff3eb2ab7c34676996afa1906a98cb748911ae0330c3e8690c1a48c041f0"
         }
       ]
     },
