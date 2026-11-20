@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T06:26:21+08:00",
+  "generated_at": "2026-11-21T05:57:41+08:00",
   "games": {
     "6/42": {
       "last_draw_date": "2026-11-19",
@@ -83,8 +83,8 @@
       ]
     },
     "6/45": {
-      "last_draw_date": "2026-11-18",
-      "total_draws": 823,
+      "last_draw_date": "2026-11-20",
+      "total_draws": 824,
       "files": [
         {
           "year": 2021,
@@ -119,8 +119,8 @@
         {
           "year": 2026,
           "path": "results_645_2026.csv",
-          "rows": 137,
-          "sha256": "4de4bf1f8ced7115db8eedbf87621bf94cba8ddf4811e1387a4ed31369dc17db"
+          "rows": 138,
+          "sha256": "72b3940abec7a02b1bbdae12db1bbf0a3c1cb5e7fd8fee067b57bb035deec09a"
         }
       ],
       "meta_files": [
@@ -157,8 +157,8 @@
         {
           "year": 2026,
           "path": "meta_645_2026.csv",
-          "rows": 137,
-          "sha256": "979e999e0c8617afcf994cacb4006bf4d9776756bb648932b980e2e436734adf"
+          "rows": 138,
+          "sha256": "82e5d6115c104a7ac1c4769ae734327b5490adeeeccc2a989707d26bef29c30d"
         }
       ]
     },
@@ -323,8 +323,8 @@
       ]
     },
     "6/58": {
-      "last_draw_date": "2026-11-17",
-      "total_draws": 820,
+      "last_draw_date": "2026-11-20",
+      "total_draws": 821,
       "files": [
         {
           "year": 2021,
@@ -359,8 +359,8 @@
         {
           "year": 2026,
           "path": "results_658_2026.csv",
-          "rows": 137,
-          "sha256": "3ce48fa54cae81805efa80cbf94d3b5fc2ab798f96e12c0a003126394f4911e4"
+          "rows": 138,
+          "sha256": "5106dec4cf5c1ec2c2ee099145a2f5ae4dd7c521fe72ffd3f8b4ca80be72b01d"
         }
       ],
       "meta_files": [
@@ -397,8 +397,8 @@
         {
           "year": 2026,
           "path": "meta_658_2026.csv",
-          "rows": 137,
-          "sha256": "73a166b861ca6fbebaa438ea85f0b716e9f992237af6b093cb39b2e1946f171b"
+          "rows": 138,
+          "sha256": "1e6bc5419af14d95f66fe9c5aec206f0566a014b4897536f74705fdbafafeae7"
         }
       ]
     }
