@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T07:17:42+08:00",
+  "generated_at": "2026-11-28T06:55:47+08:00",
   "games": {
     "6/42": {
       "last_draw_date": "2026-11-26",
@@ -83,8 +83,8 @@
       ]
     },
     "6/45": {
-      "last_draw_date": "2026-11-25",
-      "total_draws": 826,
+      "last_draw_date": "2026-11-27",
+      "total_draws": 827,
       "files": [
         {
           "year": 2021,
@@ -119,8 +119,8 @@
         {
           "year": 2026,
           "path": "results_645_2026.csv",
-          "rows": 140,
-          "sha256": "b5d8c3a62e8aacb2ec1d3d5ade41476c33cd86132532f927d5f926e5f9ed5956"
+          "rows": 141,
+          "sha256": "213bb2b7503d2fb89b49669e4df7ff81b9648528fa8130872f96df637cb43295"
         }
       ],
       "meta_files": [
@@ -157,8 +157,8 @@
         {
           "year": 2026,
           "path": "meta_645_2026.csv",
-          "rows": 140,
-          "sha256": "4c1c18798c2e7c73f1fa4f603b6f0fc2d5622a70623ab63078720cc35ad77735"
+          "rows": 141,
+          "sha256": "78df991f47bf10466c333d942fe734bf1ee39eb6c271ced38bb2faa4c963236c"
         }
       ]
     },
@@ -323,8 +323,8 @@
       ]
     },
     "6/58": {
-      "last_draw_date": "2026-11-24",
-      "total_draws": 823,
+      "last_draw_date": "2026-11-27",
+      "total_draws": 824,
       "files": [
         {
           "year": 2021,
@@ -359,8 +359,8 @@
         {
           "year": 2026,
           "path": "results_658_2026.csv",
-          "rows": 140,
-          "sha256": "318d3230fce6773c8262f840cac40e67f8760e9352d0c275564fcffc363c624e"
+          "rows": 141,
+          "sha256": "befbf1281d1df008f05b092ac0c2cb781fedd958ee68ed846cb8cbaf612331e9"
         }
       ],
       "meta_files": [
@@ -397,8 +397,8 @@
         {
           "year": 2026,
           "path": "meta_658_2026.csv",
-          "rows": 140,
-          "sha256": "cd1a3bf9bd034dc45b323e55786b8cc9b1fcb700674ddfa914f57790ae657190"
+          "rows": 141,
+          "sha256": "2506449bf35bb758b56b5123c3fd9edfb911388101232ddf2791e37457c23ff9"
         }
       ]
     }
